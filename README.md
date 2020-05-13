@@ -4,7 +4,7 @@ This is an example project of [SwiftUI](https://developer.apple.com/xcode/swiftu
 
 Here is the schemas of our API:
 
-<img src="./assets/api_schema.png" width="250">
+<img src="./assets/api_schema.png">
 
 ## :clipboard: Requirements
 - Swift5
